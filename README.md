@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![SciPy](https://img.shields.io/badge/SciPy-ODE%20Solver-green)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 # SEIQR Epidemic Model – Data Analysis & Simulation
 
 👩‍💻 Aina Aqiela  
