@@ -11,6 +11,15 @@
 
 ---
 
+## 📌 Key Result
+
+✔ Verified epidemic threshold behaviour (R₀ < 1 vs R₀ > 1)  
+✔ Demonstrated 95% reduction in peak infection due to quarantine  
+✔ Implemented numerical ODE simulation using SciPy  
+✔ Produced publication-quality visualizations
+
+---
+
 ## Project Summary
 
 This project implements and analyses a SEIQR epidemic transmission model using Python.
