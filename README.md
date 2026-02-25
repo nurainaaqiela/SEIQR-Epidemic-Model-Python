@@ -18,6 +18,14 @@ This project implements a compartmental SEIQR epidemiological model in Python.
 - Impact of Quarantine
 - Sensitivity Analysis
 
+## Threshold Behaviour
+
+![Threshold Plot](threshold_plot.png)
+
+## Impact of Quarantine
+
+![Quarantine Plot](quarantine_plot.png)
+
 ## Tools Used
 
 - Python
