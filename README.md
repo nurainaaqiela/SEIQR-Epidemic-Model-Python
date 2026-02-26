@@ -5,7 +5,7 @@
 
 # SEIQR Epidemic Model – Data Analysis & Simulation
 
-👩‍💻 Aina Aqiela  
+👩‍💻 Mur Aina Aqiela  
 🎓 Master of Applied Mathematics  
 📊 Aspiring Data Analyst  
 
